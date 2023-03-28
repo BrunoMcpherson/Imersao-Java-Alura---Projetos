@@ -1,6 +1,6 @@
 # Imers-o-Java-Alura---Projetos
 
-![Descrição da Imagem](https://imgur.com/QbN1ygS)
+![Descrição da Imagem]([Imgur](https://i.imgur.com/QbN1ygS.png)
 
 <h1 align="center"> Consumindo uma Api de Filmes com Java </h1>
 
